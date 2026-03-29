@@ -1,0 +1,67 @@
+{
+  "covers": {
+    "default": {
+      "path": "agents/assets/covers/default.jpg",
+      "description": "通用默认封面",
+      "usage": "当没有更合适的封面时使用"
+    },
+    "tech": {
+      "path": "agents/assets/covers/tech.jpg",
+      "description": "科技类封面",
+      "usage": "AI、互联网、技术相关文章"
+    },
+    "business": {
+      "path": "agents/assets/covers/business.jpg",
+      "description": "商业类封面",
+      "usage": "商业分析、创业、投资相关文章"
+    },
+    "trend": {
+      "path": "agents/assets/covers/trend.jpg",
+      "description": "趋势类封面",
+      "usage": "行业趋势、未来预测相关文章"
+    },
+    "analysis": {
+      "path": "agents/assets/covers/analysis.jpg",
+      "description": "深度分析封面",
+      "usage": "深度分析、方法论相关文章"
+    }
+  },
+  "illustrations": {
+    "intro": {
+      "path": "agents/assets/illustrations/intro.jpg",
+      "description": "开篇配图",
+      "usage": "文章开头，引入话题"
+    },
+    "data": {
+      "path": "agents/assets/illustrations/data.jpg",
+      "description": "数据展示配图",
+      "usage": "展示数据、统计时使用"
+    },
+    "case": {
+      "path": "agents/assets/illustrations/case.jpg",
+      "description": "案例配图",
+      "usage": "举例说明时使用"
+    },
+    "concept": {
+      "path": "agents/assets/illustrations/concept.jpg",
+      "description": "概念配图",
+      "usage": "解释抽象概念时使用"
+    },
+    "summary": {
+      "path": "agents/assets/illustrations/summary.jpg",
+      "description": "总结配图",
+      "usage": "文章结尾总结时使用"
+    }
+  },
+  "mapping_rules": {
+    "AI": ["tech", "trend"],
+    "科技": ["tech", "trend"],
+    "互联网": ["tech", "business"],
+    "商业": ["business", "analysis"],
+    "创业": ["business", "trend"],
+    "投资": ["business", "analysis"],
+    "趋势": ["trend", "analysis"],
+    "分析": ["analysis", "business"],
+    "default": ["default"]
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "date": "2026-03-28",
+  "source": "多平台热点聚合",
+  "total_topics": 15,
+  "topics": [
+    {
+      "id": 1,
+      "title": "Token经济革命：用多少Token要被写进工资条",
+      "source": "百度热搜/36氪/新浪AI",
+      "rank": "热搜Top 20",
+      "category": "AI/科技",
+      "description": "英伟达CEO黄仁勋宣布每位工程师将有年度Token预算；58同城姚劲波因团队AI应用不足发火；Token正成为科技公司新型硬通货和招聘热门话题",
+      "score": 9.5,
+      "score_breakdown": {
+        "热度": 4,
+        "争议性": 2,
+        "深度可写性": 2,
+        "时效性": 1.5
+      },
+      "recommendation": "AI应用落地的标志性事件，涉及企业管理变革、AI生产力工具普及、Token经济学等深层话题，极具讨论价值",
+      "writing_angles": ["Token预算管理的企业管理革命", "AI时代的新型绩效考核体系", "Token经济学的兴起与影响"],
+      "related_links": [
+        "https://finance.sina.com.cn/tech/roll/2026-03-28/doc-inhspwhs1101989.shtml"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "中国科协不再承认NeurIPS论文含金量",
+      "source": "知乎热榜/今日热榜",
+      "rank": "知乎Top 1",
+      "category": "AI/学术",
+      "description": "NeurIPS 2026手册上线制裁条款引发中国学术圈强烈不满，中国科协可能将其放入黑名单，NeurIPS随后公开道歉",
+      "score": 9.2,
+      "score_breakdown": {
+        "热度": 4,
+        "争议性": 2.5,
+        "深度可写性": 2,
+        "时效性": 0.7
+      },
+      "recommendation": "国际AI顶级会议与中国学术界的冲突，涉及学术公平、地缘政治、科研自主等敏感话题，讨论热度极高",
+      "writing_angles": ["学术会议的政治化困境", "中国AI研究的自主之路", "顶会制裁对科研人员的影响"],
+      "related_links": [
+        "https://rebang.today/"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "中国芯片出口暴增72.6%",
+      "source": "知乎热榜",
+      "rank": "知乎Top 5",
+      "category": "科技/商业",
+      "description": "海关总署数据显示今年前两个月中国芯片出口金额增速超七成，在被美国卡脖子背景下反而越卖越猛",
+      "score": 9.0,
+      "score_breakdown": {
+        "热度": 3.5,
+        "争议性": 2,
+        "深度可写性": 2.5,
+        "时效性": 1
+      },
+      "recommendation": "反直觉的数据现象，涉及中美科技博弈、中国芯片产业突围、全球供应链重构等宏大叙事",
+      "writing_angles": ["中国芯片产业的逆袭逻辑", "被制裁下的生存之道", "全球半导体格局重塑"],
+      "related_links": [
+        "https://rebang.today/"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "苹果正式停产Mac Pro产品线",
+      "source": "知乎热榜",
+      "rank": "知乎Top 18",
+      "category": "科技",
+      "description": "Apple确认Mac Pro将停产且没有后继产品，这条拥有20年历史的专业级产品线正式落幕",
+      "score": 8.8,
+      "score_breakdown": {
+        "热度": 3,
+        "争议性": 1.5,
+        "深度可写性": 3,
+        "时效性": 1.3
+      },
+      "recommendation": "苹果专业产品战略的重大转向，涉及苹果M芯片战略、专业工作站市场变化、创意工作者生态等话题",
+      "writing_angles": ["Mac Pro 20年兴衰史", "苹果专业产品线的战略收缩", "M芯片时代的得与失"],
+      "related_links": [
+        "https://rebang.today/"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "美以袭击伊朗进入第29天，霍尔木兹海峡关闭",
+      "source": "知乎热榜/微博热搜",
+      "rank": "知乎Top 4/微博Top 5",
+      "category": "国际/社会",
+      "description": "伊朗革命卫队宣布霍尔木兹海峡已关闭，胡塞武装向以色列发射导弹正式参战，全球油价震荡",
+      "score": 8.7,
+      "score_breakdown": {
+        "热度": 4,
+        "争议性": 2,
+        "深度可写性": 2,
+        "时效性": 0.7
+      },
+      "recommendation": "中东局势持续升级，能源安全、全球贸易、地缘政治等多重议题交织，时效性强",
+      "writing_angles": ["霍尔木兹海峡关闭的全球影响", "中东局势对中国的能源安全挑战", "特朗普中东政策的变数"],
+      "related_links": [
+        "https://tophub.today/n/KqndgxeLl9"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "华人神探李昌钰去世",
+      "source": "知乎热榜/微博热搜",
+      "rank": "知乎Top 14/微博Top 16",
+      "category": "社会/人物",
+      "description": "享誉全球的美籍华裔刑事鉴识专家李昌钰博士在美国逝世，终年87岁，曾参与数百起重大案件审理",
+      "score": 8.5,
+      "score_breakdown": {
+        "热度": 3.5,
+        "争议性": 1,
+        "深度可写性": 2.5,
+        "时效性": 1.5
+      },
+      "recommendation": "传奇人物逝世引发集体追忆，其母亲将13个子女培养成博士的故事极具励志意义",
+      "writing_angles": ["李昌钰的传奇破案人生", "13个博士背后的虎妈教育", "华裔在美国司法界的突破"],
+      "related_links": [
+        "https://top.baidu.com/board?tab=realtime"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "中国无人飞枪首次亮相",
+      "source": "知乎热榜",
+      "rank": "知乎Top 6",
+      "category": "科技/军事",
+      "description": "中国兵器建设工业自主研制的无人飞枪首次亮相，与四足仿生机器狼进行空地协同演练",
+      "score": 8.3,
+      "score_breakdown": {
+        "热度": 3,
+        "争议性": 1.5,
+        "深度可写性": 2.5,
+        "时效性": 1.3
+      },
+      "recommendation": "中国智能武器新突破，涉及未来战争形态、人工智能军事化、空地协同作战等话题",
+      "writing_angles": ["无人飞枪改变未来战场", "AI武器化的伦理边界", "中国智能装备新进展"],
+      "related_links": [
+        "https://rebang.today/"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "谷歌推出TurboQuant压缩算法",
+      "source": "知乎热榜",
+      "rank": "知乎Top 18",
+      "category": "AI/科技",
+      "description": "谷歌推出TurboQuant压缩算法，宣称实现约6倍内存节省，可能成为大模型端侧落地的突破口",
+      "score": 8.2,
+      "score_breakdown": {
+        "热度": 2.5,
+        "争议性": 1,
+        "深度可写性": 3,
+        "时效性": 1.7
+      },
+      "recommendation": "大模型技术突破，涉及模型压缩、端侧AI、AI普及化等技术趋势",
+      "writing_angles": ["大模型端侧落地的技术突破", "AI普及化的基础设施", "谷歌在大模型竞赛中的反击"],
+      "related_links": [
+        "https://rebang.today/"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "网传万科所有核心高管被要求退还薪酬",
+      "source": "知乎热榜",
+      "rank": "知乎Top 3",
+      "category": "商业/财经",
+      "description": "继郁亮被要求退薪后，万科前董秘朱旭被约谈要求退还过去4年薪酬，退薪要求覆盖所有核心高管",
+      "score": 8.0,
+      "score_breakdown": {
+        "热度": 3.5,
+        "争议性": 2.5,
+        "深度可写性": 1.5,
+        "时效性": 0.5
+      },
+      "recommendation": "房地产行业震荡持续，国企高管薪酬监管、房地产危机应对等话题引发热议",
+      "writing_angles": ["万科高管退薪背后的地产危机", "国企高管薪酬监管风暴", "房地产行业的深度调整"],
+      "related_links": [
+        "https://rebang.today/"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "董明珠回应年轻人躺平",
+      "source": "知乎热榜/IT之家",
+      "rank": "知乎Top 12",
+      "category": "商业/社会",
+      "description": "格力电器董明珠在香港科技大学分享会上回应年轻人躺平话题，称是社会舆论误导",
+      "score": 7.8,
+      "score_breakdown": {
+        "热度": 3,
+        "争议性": 2.5,
+        "深度可写性": 1.5,
+        "时效性": 0.8
+      },
+      "recommendation": "企业家与年轻世代价值观碰撞，躺平文化、代际差异、职场压力等话题持续引发共鸣",
+      "writing_angles": ["躺平是选择还是无奈", "企业家视角下的年轻世代", "董明珠的功守道"],
+      "related_links": [
+        "https://rebang.today/"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "智谱GLM-5.1面向所有codingplan用户开放",
+      "source": "知乎热榜",
+      "rank": "知乎Top 13",
+      "category": "AI/科技",
+      "description": "智谱AI宣布GLM-5.1面向所有codingplan用户开放，对开发者意味着更强的编程助手能力",
+      "score": 7.5,
+      "score_breakdown": {
+        "热度": 2.5,
+        "争议性": 1,
+        "深度可写性": 2.5,
+        "时效性": 1.5
+      },
+      "recommendation": "国产大模型新进展，AI编程助手市场竞争加剧，开发者工具生态变化",
+      "writing_angles": ["国产大模型的编程能力进化", "AI编程助手的市场格局", "开发者生产力工具新趋势"],
+      "related_links": [
+        "https://rebang.today/"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "猪价每斤5块多创近七年新低",
+      "source": "知乎热榜",
+      "rank": "知乎Top 8",
+      "category": "商业/民生",
+      "description": "全国生猪出栏均价跌至10.16元/公斤，猪肉价格创7年新低，对养殖业和普通消费者均有影响",
+      "score": 7.3,
+      "score_breakdown": {
+        "热度": 3,
+        "争议性": 1,
+        "深度可写性": 2,
+        "时效性": 1.3
+      },
+      "recommendation": "CPI和民生话题，涉及养殖周期、通胀通缩、农民收入等经济议题",
+      "writing_angles": ["猪周期底部的众生相", "低猪价背后的经济信号", "养殖户的生存困境"],
+      "related_links": [
+        "https://rebang.today/"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "全球首家：工商银行总资产突破50万亿元",
+      "source": "百度热搜",
+      "rank": "百度热搜Top 2",
+      "category": "商业/金融",
+      "description": "工商银行2025年年报显示总资产达53.48万亿元，成为全球首家总资产突破50万亿元的银行",
+      "score": 7.2,
+      "score_breakdown": {
+        "热度": 3,
+        "争议性": 0.5,
+        "深度可写性": 2.5,
+        "时效性": 1.2
+      },
+      "recommendation": "中国银行业里程碑事件，全球金融格局变化，中国银行业实力体现",
+      "writing_angles": ["宇宙行再创新纪录", "中国银行业的全球崛起", "50万亿背后的金融力量"],
+      "related_links": [
+        "https://top.baidu.com/board?tab=realtime"
+      ]
+    },
+    {
+      "id": 14,
+      "title": " neurons：AI公司上市潮来临",
+      "source": "36氪",
+      "rank": "36氪热门",
+      "category": "AI/商业",
+      "description": "OpenAI据悉计划最早于2026年下半年提交上市申请，AI公司IPO浪潮或将开启",
+      "score": 7.0,
+      "score_breakdown": {
+        "热度": 2.5,
+        "争议性": 1,
+        "深度可写性": 2.5,
+        "时效性": 1
+      },
+      "recommendation": "AI产业商业化进程加速，资本市场对AI公司的估值逻辑变化",
+      "writing_angles": ["OpenAI上市的估值迷思", "AI公司从烧钱到赚钱", "AI泡沫与价值之辩"],
+      "related_links": [
+        "https://36kr.com/p/3530925303061380"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "宇树人形机器人量产在即",
+      "source": "36氪",
+      "rank": "36氪热门",
+      "category": "AI/机器人",
+      "description": "宇树科技宣布新品即将发布，动力性能约为Go2两倍；富士康将在英伟达AI服务器工厂部署人形机器人",
+      "score": 7.0,
+      "score_breakdown": {
+        "热度": 2.5,
+        "争议性": 1,
+        "深度可写性": 2.5,
+        "时效性": 1
+      },
+      "recommendation": "具身智能产业落地加速，人形机器人从实验室走向工厂，产业变革前夜",
+      "writing_angles": ["人形机器人量产元年", "具身智能的产业落地", "机器人替代人类的时间表"],
+      "related_links": [
+        "https://36kr.com/p/3530925303061380"
+      ]
+    }
+  ],
+  "summary": {
+    "high_score_topics": [
+      "Token经济革命（9.5分）",
+      "NeurIPS学术争议（9.2分）",
+      "中国芯片出口暴增（9.0分）",
+      "Mac Pro停产（8.8分）",
+      "中东局势升级（8.7分）"
+    ],
+    "category_distribution": {
+      "AI/科技": 6,
+      "商业/财经": 4,
+      "国际/社会": 3,
+      "其他": 2
+    },
+    "recommendation": "今日热点以AI科技和国际局势为主，Token经济、学术争议、芯片出口等话题讨论价值最高，建议优先关注"
+  }
+}

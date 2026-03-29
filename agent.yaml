@@ -1,0 +1,32 @@
+version: 1
+agent:
+  name: content-director
+  system_prompt_path: ./prompts/director.md
+  tools:
+    - "kimi_cli.tools.agent:Agent"
+    - "kimi_cli.tools.ask_user:AskUserQuestion"
+    - "kimi_cli.tools.todo:SetTodoList"
+    - "kimi_cli.tools.shell:Shell"
+    - "kimi_cli.tools.file:ReadFile"
+    - "kimi_cli.tools.file:WriteFile"
+    - "kimi_cli.tools.file:Glob"
+    - "kimi_cli.tools.web:SearchWeb"
+    - "kimi_cli.tools.web:FetchURL"
+  skills:
+    - ./skills/wechat-publish
+  subagents:
+    hot-collector:
+      path: ./subagents/hot-collector.yaml
+      description: "热点搜集专家，从多个平台获取热门话题并评估写作价值"
+    writer:
+      path: ./subagents/writer.yaml
+      description: "资深撰稿人，负责撰写有观点、有深度的高质量文章"
+    reviewer:
+      path: ./subagents/reviewer.yaml
+      description: "资深编辑，负责文章质量审核、评分并提出修改意见"
+    visual-designer:
+      path: ./subagents/visual-designer.yaml
+      description: "视觉设计师，提供封面图、头图的设计规范和配图建议"
+    publisher:
+      path: ./subagents/publisher.yaml
+      description: "发布专员，负责文章本地保存和公众号发布"

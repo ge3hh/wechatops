@@ -1,0 +1,12 @@
+# 微信公众号内容创作 Agent 依赖
+# 安装: pip install -r requirements.txt
+
+# 核心依赖
+requests>=2.31.0
+
+# 可选依赖（根据需要安装）
+# beautifulsoup4>=4.12.0  # HTML解析，用于更安全的HTML处理
+# feedparser>=6.0.0       # RSS订阅源解析
+# jinja2>=3.1.0           # 模板引擎，用于内容生成
+# pyyaml>=6.0.0           # YAML配置解析
+# python-dotenv>=1.0.0    # 环境变量管理
