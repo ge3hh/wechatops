@@ -13,7 +13,14 @@
         "涉嫌抄袭：引用言论和数据未充分改写和标注来源",
         "虚构作者：使用了不存在的资深科技商业观察署名"
       ],
-      "tags": ["Token经济", "AI时代", "职场变革", "企业管理", "人工智能", "数字化转型"],
+      "tags": [
+        "Token经济",
+        "AI时代",
+        "职场变革",
+        "企业管理",
+        "人工智能",
+        "数字化转型"
+      ],
       "file_path": "output/publish_ready.html",
       "media_id_hash": "sha256:a1b2c3d4...",
       "views_estimate": "100000+",
@@ -50,7 +57,14 @@
         "颜色使用过多：使用了5种颜色24处高亮，用户反馈版面花哨影响阅读",
         "配色方案需要简化：建议减少到2-3种颜色"
       ],
-      "tags": ["Token经济", "AI原生企业", "企业管理变革", "职场生存指南", "人工智能", "数字化转型"],
+      "tags": [
+        "Token经济",
+        "AI原生企业",
+        "企业管理变革",
+        "职场生存指南",
+        "人工智能",
+        "数字化转型"
+      ],
       "file_path": "output/article_v3_final.html",
       "media_id_hash": "sha256:e5f6g7h8...",
       "views_estimate": "80000+",
@@ -65,13 +79,135 @@
         "未来老板会问你用了多少Token完成了什么",
         "如果不拥抱AI，可能会被这个时代淘汰"
       ]
+    },
+    {
+      "id": "article_20260401_001",
+      "title": "那件黄袍：郭荣亲手送的，还是赵匡胤自己拿的？",
+      "topic": "太平年 郭荣 赵匡胤 陈桥兵变",
+      "publish_date": "2026-04-01",
+      "author": "胖橘happy",
+      "score": 9.2,
+      "status": "published_to_draft",
+      "compliance": {
+        "originality": "原创历史评论，引用史料均标注出处",
+        "attribution": "正确署名胖橘happy",
+        "ai_disclaimer": "已包含本文由AI辅助创作声明",
+        "data_sources": "《资治通鉴》《旧五代史》《续资治通鉴长编》《辽史》",
+        "encoding": "UTF-8编码，无乱码",
+        "color_usage": "使用3种颜色（yellow/red/blue），符合规范"
+      },
+      "issues": [],
+      "tags": [
+        "太平年",
+        "赵匡胤",
+        "郭荣",
+        "陈桥兵变",
+        "黄袍加身",
+        "五代十国",
+        "历史评论",
+        "电视剧"
+      ],
+      "file_path": "output/article_taipingnian_zhaokuangyin_v1.html",
+      "media_id": "GkA5P3DeV6JyXz5JfvdGhZr4oZ9Dd0XWMtHHIgm1Zo7zUw8uHtQx4VjwH_r08J9T",
+      "cover_media_id": "GkA5P3DeV6JyXz5JfvdGhX3VQ4kULROsLydBNw__3ygaW3aI3yFisyLbhmJZS-k7",
+      "views_estimate": "50000+",
+      "key_insights": [
+        "郭荣送黄袍给赵匡胤是艺术虚构，正史中查无此事",
+        "赵匡胤夺位是历史必然，五代乱世53年换14个皇帝",
+        "赵匡胤善待柴氏是为夺位寻找合法性",
+        "郭荣的托孤是悲壮的妥协，把结束乱世的希望托付给赵匡胤"
+      ],
+      "golden_quotes": [
+        "演得太完美了。完美到破绽百出。",
+        "他就是欺负了孤儿寡母，但他没得选。",
+        "历史只问成败，不问对错。",
+        "在历史的棋局中，最重要的不是怎么开局，而是怎么收官——太平年。"
+      ],
+      "writing_process": {
+        "hot_topic_source": "电视剧《太平年》热播",
+        "draft_count": 2,
+        "review_rounds": 3,
+        "final_score": 9.2,
+        "improvements": [
+          "初稿使用123分段，AI味较浓，评分8.6分",
+          "重写后使用自然小标题，大幅减少AI味，评分提升至9.2分"
+        ]
+      }
+    },
+    {
+      "title": "那件黄袍：郭荣亲手送的，还是赵匡胤自己拿的？",
+      "media_id": "GkA5P3DeV6JyXz5JfvdGhUevuVgfVEC4rDUDmGp_uRSp7CrqP7fFkZRKoLgIYZCs",
+      "cover_media_id": "GkA5P3DeV6JyXz5JfvdGhX3VQ4kULROsLydBNw__3ygaW3aI3yFisyLbhmJZS-k7",
+      "publish_time": "2026-04-02T23:07:35.737033",
+      "score": 8.8,
+      "topic": "太平年 郭荣 赵匡胤 陈桥兵变",
+      "id": "article_20260402_001",
+      "publish_date": "2026-04-02",
+      "status": "published_to_draft",
+      "compliance": {
+        "originality": "原创历史评论，引用史料均标注出处",
+        "attribution": "正确署名胖橘happy",
+        "ai_disclaimer": "已包含本文由AI辅助创作声明",
+        "data_sources": "《资治通鉴》《旧五代史》《续资治通鉴长编》《辽史》",
+        "encoding": "UTF-8编码，无乱码",
+        "color_usage": "使用3种颜色（yellow/red/blue），符合规范"
+      },
+      "issues": [],
+      "tags": [
+        "太平年",
+        "赵匡胤",
+        "郭荣",
+        "陈桥兵变",
+        "黄袍加身",
+        "五代十国",
+        "历史评论",
+        "电视剧"
+      ],
+      "file_path": "output/article_taipingnian_zhaokuangyin_v5.html",
+      "views_estimate": "50000+",
+      "key_insights": [
+        "郭荣送黄袍给赵匡胤是艺术虚构，正史中查无此事",
+        "赵匡胤夺位是历史必然，五代53年换14个皇帝",
+        "赵匡胤善待柴氏是为篡位寻找合法性",
+        "郭荣的托孤是悲壮的妥协，把结束乱世的希望托付给赵匡胤"
+      ],
+      "golden_quotes": [
+        "演得太完美了。完美到破绽百出。",
+        "他就是欺负了孤儿寡母，但他没得选。",
+        "历史从不问那件黄袍是谁送的。它只问一件事：穿上它的人，有没有让天下人过上太平年。",
+        "在历史的棋局中，最重要的不是怎么开局，而是怎么收官——太平年。"
+      ],
+      "writing_process": {
+        "hot_topic_source": "电视剧《太平年》热播",
+        "draft_count": 5,
+        "review_rounds": 3,
+        "final_score": 8.8,
+        "improvements": [
+          "v1-v4使用过多小标题，AI味较重",
+          "v5大幅重构：小标题从6个减到3个，增加人味细节和心理白描",
+          "去AI化后用户直接确认发布，说明技术评分需服从用户体感"
+        ]
+      },
+      "publish_lessons": [
+        "应优先复用已上传的 cover_media_id，避免重复上传",
+        "publish_wechat.py 的 workflow 模式会触发 thumb 64KB 限制",
+        "优先使用 Python 标准库 urllib，避免依赖安装问题",
+        "发布脚本应保持路径一致性，沿用已验证成功的方案"
+      ]
     }
   ],
   "stats": {
-    "total_count": 2,
-    "avg_score": 8.7,
-    "best_performing_topics": ["Token经济"],
+    "total_count": 4,
+    "avg_score": 8.85,
+    "best_performing_topics": [
+      "Token经济",
+      "历史评论"
+    ],
     "lessons_learned": [
+      "封面上传：微信临时素材接口 thumb 类型有64KB限制，应使用永久素材接口或直接复用 media_id",
+      "技术评分≠用户体验：v4评分8.8分但用户不满意，说明必须结合体感判断",
+      "发布流程：优先复用已有的 cover_media_id，使用 urllib 直调官方API",
+      "去AI化：当用户反馈AI味太浓时，应减少小标题、去掉123分段、增加人味细节",
       "第三轮审核评分9.6分，说明严格执行3轮审核流程有效",
       "金句是提升传播力的关键，本文3处金句形成递进结构",
       "微信公众号发布必须使用微信官方API，不要依赖第三方接口",
@@ -88,7 +224,10 @@
       "改进：文章颜色使用过多（5种24处），用户反馈版面花哨，需简化配色",
       "配色原则：整篇文章高亮颜色不超过2-3种，避免版面杂乱",
       "不期望读者理解颜色语义，颜色仅作为辅助，不可过度使用",
-      "安全：media_id 等敏感信息应使用哈希存储，避免明文泄露"
+      "安全：media_id 等敏感信息应使用哈希存储，避免明文泄露",
+      "重写优化：当用户反馈AI味太浓时，应去掉123分段，使用更自然的小标题",
+      "重写优化：增加反问句、设问句等互动性表达，增强文章可读性",
+      "重写优化：核心观点直接亮出，不骑墙，敢于下判断"
     ]
   }
 }
